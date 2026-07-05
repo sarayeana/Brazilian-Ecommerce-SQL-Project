@@ -109,12 +109,22 @@ customers.customer_zip_code_prefix
 */
 
 
-
 /*
-===========================================
-Brazilian E-Commerce Dataset
-Data Exploration
-===========================================
+===============================================================================
+Project: Brazilian E-Commerce (Olist) Analysis
+File: 01_Data_Exploration.sql
+
+Purpose:
+    Explore the dataset structure, understand business scale,
+    verify table relationships, and gain familiarity with the data
+    before performing analytical queries.
+
+Dataset:
+    Olist Brazilian E-Commerce Public Dataset
+
+Author: Your Name
+SQL Dialect: MySQL 8.0
+===============================================================================
 */
 
 
