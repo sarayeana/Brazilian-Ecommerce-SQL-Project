@@ -122,7 +122,7 @@ Purpose:
 Dataset:
     Olist Brazilian E-Commerce Public Dataset
 
-Author: Your Name
+Author: Sara Yeana
 SQL Dialect: MySQL 8.0
 ===============================================================================
 */
