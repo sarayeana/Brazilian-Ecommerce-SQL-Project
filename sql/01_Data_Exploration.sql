@@ -3,7 +3,7 @@
 Brazilian E-Commerce Dataset
 SQL Project
 ===========================================
-Author : Maha Yena
+Author : Sara Yeana
 Database : MySQL
 Dataset : Olist Brazilian E-Commerce
 ===========================================
