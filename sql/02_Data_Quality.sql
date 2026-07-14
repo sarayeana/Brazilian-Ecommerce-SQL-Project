@@ -392,7 +392,7 @@ where review_score not between 1 and 5;
 observation
 =================================================
 
-1. no business rule violations indicate that the
+1. there is some business rule violations but the
 dataset is logically consistent and suitable for
 business analysis.
 
