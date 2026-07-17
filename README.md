@@ -74,6 +74,7 @@ Brazilian-Ecommerce-BI-Project/
 ├── 07_Logistics_Analysis.sql
 ├── 08_Customer_Experience.sql
 ├── 09_Executive_Dashboard.sql
+│──Image.png
 │
 ├── Insights.md 
 │  
