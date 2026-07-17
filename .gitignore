@@ -1,0 +1,46 @@
+# ==========================
+# SQL Portfolio .gitignore
+# ==========================
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+
+# MySQL Workbench Files
+*.mwb.bak
+*.autosave
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Database Files (Don't upload local databases)
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+
+# Environment Files
+.env
+.env.*
+
+# Backup Files
+*.bak
+*.old
+
+# Compressed Files
+*.zip
+*.rar
+*.7z
+
+# Python Cache (if using Python for analysis)
+__pycache__/
+*.pyc
